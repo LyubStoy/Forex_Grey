@@ -37,5 +37,19 @@ EUR/USD ≈ f(US yields − EU yields)
 - scipy.stats → Pearson correlation and p-values
 - statsmodels.api → regression modeling
 
+## Data sources
+
+    https://fred.stlouisfed.org/series/PAYEMS
+    https://fred.stlouisfed.org/series/UNRATE
+    https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table?lang=en
+    https://www.backtestmarket.com/
+    https://widgets.dukascopy.com/en/
+    https://www.macrotrends.net/3029/2-year-treasury-yield
+    https://data.forexsb.com/
+    https://www.tradingview.com/
+    https://ca.investing.com/analysis/understanding-the-relationship-between-bond-yields-and-currencies-200474487
+    https://treasuryone.co.za/yields-differentials-vs-currency-and-outlook/
+
+
 ## Author
 Lyubomir Stoychev
